@@ -1,4 +1,4 @@
-This is a simple exercise I did in University. Some of the code below was provided to me by the university.
+This is a simple exercise I did in University. Some of the code was provided to me by the university.
 
 The model is created using a keras.
 
